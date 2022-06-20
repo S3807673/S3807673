@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrien!
 - 👀 I’m interested in information technology, coding, programming and cybersecurity.
-- 🌱 I’m currently learning how to use GitHub & Intro to Information Tech
+- 🌱 I’m currently interested in webdev!
 
 
 <!---
